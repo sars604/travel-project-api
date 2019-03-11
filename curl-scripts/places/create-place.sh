@@ -7,7 +7,6 @@ curl "http://localhost:4741/places" \
   --header "Authorization: Token token=${TOKEN}" \
   --data '{
     "place": {
-      "user_id": "'"${USER}"'",
       "name": "'"${NAME}"'",
       "date": "'"${DATE}"'",
       "city": "'"${CITY}"'",

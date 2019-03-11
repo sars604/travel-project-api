@@ -15,7 +15,7 @@ class PlacesController < OpenReadController
 
   # POST /places
   def create
-    @place = Place.new(place_params)
+    @place = current_user.places.build(place_params)
 
     if @place.save
       render json: @place, status: :created, location: @place

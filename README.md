@@ -8,10 +8,10 @@
 * Heroku
 
 ## Link to Both Sites - Front-end Client and Back-end API:
-Front-end Repo - (https://github.com/sars604/travel-project-client)
-Front-end Client - (https://sars604.github.io/travel-project-client/#/)
-Back-end Repo - (https://github.com/sars604/travel-project-api)
-Back-end API - (https://thawing-mountain-87325.herokuapp.com/)
+* Front-end Repo - (https://github.com/sars604/travel-project-client)
+* Front-end Client - (https://sars604.github.io/travel-project-client/#/)
+* Back-end Repo - (https://github.com/sars604/travel-project-api)
+* Back-end API - (https://thawing-mountain-87325.herokuapp.com/)
 
 
 ##  Entity Relationship Diagram:
